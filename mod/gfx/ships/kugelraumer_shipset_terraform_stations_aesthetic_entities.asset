@@ -7,7 +7,6 @@ entity = {
 	locator = { name = "part1" position = { 0 0 0 } }
 	locator = { name = "beam1" position = { 0 3 0 } scale = 110 rotation = { 0 -90 0 } }
 	default_state = "idle"
-	default_state = "idle"
 	state = { name = "idle" state_time = 5
 		start_event = { trigger_once = yes sound = { soundeffect = "amb_mining_station_signals" } }
 		event = { time = 0.0 node = "light_locator_01" particle = "ship_light_blue_effect" keep_particle = yes trigger_once = yes }
