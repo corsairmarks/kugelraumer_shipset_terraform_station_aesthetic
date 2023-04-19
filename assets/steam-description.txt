@@ -15,7 +15,7 @@ Built for Stellaris version 3.7 "Canis Minor." Not compatible with achievements,
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2810379776]Kugelraumer Shipset[/url] for the original graphics and other ship-related code
 [/list]
 [h2]Changelog[/h2]
-See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/]Change Notes[/url]
+See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2964350923]Change Notes[/url]
 
 [h2]Source Code[/h2]
 Hosted on [url=https://github.com/corsairmarks/kugelraumer_shipset_terraform_station_aesthetic]GitHub[/url]
