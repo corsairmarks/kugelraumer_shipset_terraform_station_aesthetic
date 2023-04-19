@@ -4,8 +4,6 @@ Do you like terraform stations from my mod [Aesthetic Terraform Stations](https:
 
 # Changes
 
-TODO: messages about all the crisis shipsets, willing to add other crisis shipset mods - leave comments!
-
 Adds a terraform station definition with an active terraforming beam for graphical culture `kugelraumer_01`, required for Aesthetic Terraform Stations to apply the correct appearance.
 
 ## Compatibility
